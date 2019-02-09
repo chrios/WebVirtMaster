@@ -9,8 +9,10 @@ This project uses the following libraries:
 
 To install:
 
-Ensure your web server has php-libvirt installed. (you may need to build it as packages are not commonly available)
+Ensure your web server has php-libvirt installed. You may need to build it as packages are not commonly available.
 
-Run the builtin php webserver in the git repo base directory (php -S localhost:80)
+Modify application/views/test/header.php with your connection URI (if not connecting to libvirt on localhost).
+
+Run the builtin php webserver in the git repo base directory (php -S localhost:80).
 
 Have fun!
