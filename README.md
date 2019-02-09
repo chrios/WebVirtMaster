@@ -1,4 +1,4 @@
-## WebVirtMaster
+# WebVirtMaster
 This is an experimental (for now) project to implement a web-based Hypervisor manager, written in PHP.
 
 Currently the only non-commercial solutions are written in python, and are complicated to install and manage.
@@ -9,7 +9,7 @@ This project uses the following libraries:
   - https://www.codeigniter.com/
   - http://benedmunds.com/ion_auth/
 
-# Installation
+## Installation
 
 Ensure your web server has php-libvirt installed. You may need to build it as packages are not commonly available.
 
@@ -19,7 +19,7 @@ Run the builtin php webserver in the git repo base directory (php -S localhost:8
 
 Have fun!
 
-# Roadmap
+## Roadmap
 
   - Create REST structure
 	- Implement user authentication
