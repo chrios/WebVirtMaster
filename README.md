@@ -26,3 +26,4 @@ Have fun!
   - Implement user authentication
   - Hypervisor connection details including ssh keys in database
   - Multi hypervisor support
+  - Impletement XML parsing and editing form for libvirt xml definitions
