@@ -8,6 +8,7 @@ This project uses the following libraries:
   - https://libvirt.org/php/
   - https://www.codeigniter.com/
   - http://benedmunds.com/ion_auth/
+  - https://getbootstrap.com/
 
 ## Installation
 
@@ -22,6 +23,6 @@ Have fun!
 ## Roadmap
 
   - Create REST structure
-	- Implement user authentication
-	- Hypervisor connection details including ssh keys in database
-	- Multi hypervisor support
+  - Implement user authentication
+  - Hypervisor connection details including ssh keys in database
+  - Multi hypervisor support
